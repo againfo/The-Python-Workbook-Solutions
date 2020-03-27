@@ -1,6 +1,5 @@
 humanYearsOld = int(input("Please enter the age of a dog in human years: "))
 
-humanYearsOld = 0
 	
 if humanYearsOld <= 2:
 	dogYears = humanYearsOld * 10.5
